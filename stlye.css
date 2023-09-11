@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(14, 172, 215);
+    text-align: center;
+    background-image: url(wolf.jpg);
+    padding-top: 150px;
+}
+
+p{
+    font-size:xx-large;
+    font-family:serif;
+    background-color: rgba(151, 180, 183, 10);
+    padding: 20px;
+    border-radius: 50px;
+}
+h1{
+    text-align: left;
+    
+}
+
+h2{
+    border-radius: 15.67px;
+    font-family: 'Courier New', Courier, monospace;
+    padding:1px;
+    text-align: center;
+    font-size: xx-large;
+    background-color:rgba(152, 170, 186, 0.7);
+}
+
+footer{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
